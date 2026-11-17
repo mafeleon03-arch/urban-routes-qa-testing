@@ -50,8 +50,17 @@ Al introducir una dirección en el campo "Desde", no aparecía el marcador corre
 
 ## Evidencias
 
-Pendiente de incorporar una selección de casos de prueba y reportes de defectos del proyecto original.
+## Evidencias del proyecto
 
+El archivo [Urban Routes - Evidencias QA](Urban_Routes_Portafolio_QA_FINAL.xlsx) contiene:
+
+- Resumen de la ejecución original: 24 casos de prueba.
+- 5 casos de prueba seleccionados.
+- 2 reportes de defectos documentados.
+- Resultados esperados, estados y trazabilidad.
+
+Los resultados corresponden a las pruebas realizadas
+durante mi formación en TripleTen.
 ## Contexto
 
 Proyecto académico desarrollado durante el bootcamp de QA Engineering de TripleTen.
